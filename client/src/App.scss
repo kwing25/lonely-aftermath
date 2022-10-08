@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f7fafc;
+    padding: auto;
+}
+
+.App {
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+    background: rgba(22, 12, 40, 1);
+}
+
+h1 {
+
+    color: rgba(225, 239, 230, 1);
+}
+// font-family: 'Abril Fatface', cursive;
+// font-family: 'Alfa Slab One', cursive;
+// font-family: 'Bebas Neue', cursive;
+// font-family: 'Fredoka One', cursive;
+// font-family: 'Josefin Sans', sans-serif;
+// font-family: 'Josefin Slab', serif;
+// font-family: 'Jost', sans-serif;
+// font-family: 'Outfit', sans-serif;
+// font-family: 'Pacifico', cursive;
+// font-family: 'Permanent Marker', cursive;
+// font-family: 'Quicksand', sans-serif; 
+
+// $dark-purple: rgba(22, 12, 40, 1);
+// $orange-yellow-crayola: rgba(239, 203, 104, 1);
+// $honeydew: rgba(225, 239, 230, 1);
+// $ash-gray: rgba(174, 183, 179, 1);
+// $rich-black-fogra-29: rgba(0, 4, 17, 1);
