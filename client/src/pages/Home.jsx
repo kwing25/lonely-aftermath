@@ -8,13 +8,11 @@ export default function Home() {
 
             {/* Carousel */}
             {/* <div id="indicators-carousel" className="relative" data-carousel="static">
-
                 <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
-  
                     <div className="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-0 z-20" data-carousel-item="active">
                         <img src="https://source.unsplash.com/640x480/?1" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                     </div>
-   
+
                     <div className="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-full z-10" data-carousel-item>
                         <img src="https://source.unsplash.com/640x480/?1" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                     </div>
@@ -54,8 +52,6 @@ export default function Home() {
                 </button>
             </div> */}
 
-
-
             <div className="flex relative z-20 items-center overflow-hidden">
                 <div className="container mx-auto px-6 flex relative py-16">
                     <div className="sm:w-2/3 lg:w-2/5 flex flex-col relative z-20">
@@ -84,7 +80,6 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-
 
             <section className="">
                 <div className="container mx-auto flex flex-col items-center px-4 py-16 text-center md:py-32 md:px-10 lg:px-32 xl:max-w-3xl">
@@ -178,7 +173,6 @@ export default function Home() {
                     </div>
                 </div>
             </section>
-
 
         </div>
     );
